@@ -5,7 +5,7 @@
 #### Project involved automating the dataflow to give realtime details about the supply chain efficiency. The technologies involved utilizing Azure componenets for Data Injestion and transformation connecting to a database, Power BI desktop for visualization development, Power BI service to deploy as an APP for creating real time notifications and alerts for the userbase. 
 
 ## Dashboard outline 
-#### The visualization consistes of dynamic reports showcasing product performance, Channel performance, KPIs indicating the efficiency and risk. 
+#### The visualization consists of dynamic reports showcasing product performance, Channel performance, KPIs indicating the efficiency and risk. 
 
 ![1](https://github.com/Mith1201/Product-and-Channel-study/assets/102762042/5704cca8-5e45-4d7e-8fab-6a521e01d469)
 
